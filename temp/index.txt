@@ -1,1 +1,2 @@
 this is default file of the development
+added new code for index file
